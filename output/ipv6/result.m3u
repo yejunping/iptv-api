@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yejunping/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.108:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-26 12:36:08
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.225:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-26 12:45:26
 url
